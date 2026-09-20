@@ -7,6 +7,7 @@
 [![Rust](https://img.shields.io/badge/built_with-Rust-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Made by Skyrix](https://img.shields.io/badge/made%20by-Skyrix-9ff5a9)](https://github.com/Skyrix-7/)
 
+![image alt](https://github.com/Skyrix-7/userfinder/blob/ad0e1dc639fa4b1525a5cc9d0201ad260c06f487/preview.png)
 </div>
 
 ---
