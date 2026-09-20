@@ -1,6 +1,6 @@
 <div align="center">
 
-# User Searcher
+# User Finder
 
 **Check if a username is taken across 30+ platforms — all from your terminal.**
 
